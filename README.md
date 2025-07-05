@@ -40,7 +40,8 @@ agentic-rag-chatbot/
 └── README.md
 
 
- Clone the Repository
+Clone the Repository
+git clone https://github.com/sahilsuriya/Rag-chatbot.git
 cd agentic-rag-chatbot
 
 Create and Activate Virtual Environment
